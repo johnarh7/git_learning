@@ -1,5 +1,3 @@
 name = "David"
-print(f"Hello, {name}")
-print("It's me.")
-print(1)
-print(2)
+print(f"Hello {name}")
+print("It's Ef")
